@@ -1,4 +1,4 @@
-# DEX dev
+# IE DEX
 
 ## Technology Stack & Tools
 
@@ -17,14 +17,12 @@
 ## Setting Up
 ### 1. Clone/Download the Repository
 
-### 2. Customize your front end 
+### 2. Start Ganache
 
-### 3. Start Ganache
-
-### 4. Install Dependencies:
+### 3. Install Dependencies:
 ` npm install`
 
-### 5. Migrate Smart Contracts
+### 4. Migrate Smart Contracts
 ` truffle migrate --reset`
 
 
